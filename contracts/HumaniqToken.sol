@@ -14,8 +14,8 @@ contract HumaniqToken is StandardToken {
     /*
      * Token meta data
      */
-    string constant public name = "HumaniQ";
-    string constant public symbol = "HMQ";
+    string constant public name = "Runeuro test token";
+    string constant public symbol = "RUNETST2";
     uint8 constant public decimals = 0;
 
     address public founder = 0x0;
